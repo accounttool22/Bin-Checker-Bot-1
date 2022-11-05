@@ -24,8 +24,8 @@ async def start(_, m: Message):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("Channel", url="https://t.me/szteambots"),
-                InlineKeyboardButton("Support", url="https://t.me/slbotzone"),
+                InlineKeyboardButton("Channel", url="https://t.me/accounttool"),
+                InlineKeyboardButton("Support", url="https://t.me/accounttoolgroup"),
             ],
             [
                 InlineKeyboardButton(
